@@ -1,0 +1,2 @@
+function openCity(elmnt,color){var i,tablinks;tablinks=document.getElementsByClassName("tablink");for(i=0;i<tablinks.length;i++){tablinks[i].style.backgroundColor="";}
+elmnt.style.backgroundColor=color;}

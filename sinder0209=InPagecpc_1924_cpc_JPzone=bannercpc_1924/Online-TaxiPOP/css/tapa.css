@@ -1110,14 +1110,15 @@ visibility: hidden;
 #age-confirmation-modal .innerContainer{
     background-color: white;
 	border-color: gray;
-	width: 30%;
+	width: 15%;
+	
     color: black;
     padding: 5px;
     
     display: inline-block;
-    top: 10%;
+    top: 20%;
     position: absolute;
-    right: -15%;
+    right: 75%;
     transform: translate(-50%, -50%);
 }
 #age-confirmation-modal .innerContainer2{
